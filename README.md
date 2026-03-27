@@ -61,18 +61,27 @@ Relationships ensure that filters on any dimension propagate correctly across al
   - Top 10 products by orders with return rates  
   - Revenue, Profit, and Cost drill‑down (Year → Quarter → Month → Day)
 
-- **Customer Details**  
+- **Customer Insights**  
   - Top customers by revenue and total orders  
   - Demographic breakdowns (gender, income level, occupation)  
   - Revenue vs. orders over time  
   - Order distribution by age group
 
-- **Product Details**  
+- **Product Insights**  
   - Select any product to view its monthly/weekly revenue and return trends  
   - Identify seasonal patterns and potential quality issues
 
-- **Global Sales Map**  
-  - Interactive map showing sales by country and continent, highlighting market penetration
+- **Geographic Analysis**  
+  - Global sales distribution
+  - Region-based filtering (North America, Europe, Pacific)
+  - Market-level insightsInteractive map showing sales by country and continent, highlighting market penetration
+    
+- **Key Insights**
+  - North America generates the highest revenue contribution
+  - Certain products show elevated return rates
+  - Revenue demonstrates steady growth with periodic spikes
+  - A small segment of customers drives a large portion of revenue
+  - Product demand varies significantly by region
 
 ## How to Use This Repository
 
@@ -85,6 +94,12 @@ Relationships ensure that filters on any dimension propagate correctly across al
 
 This Power BI project demonstrates a complete business intelligence workflow: from understanding business requirements, building a robust data model, writing advanced DAX, to delivering a user‑friendly, interactive dashboard. It empowers decision‑makers at AdventureWorks Cycles to quickly answer critical questions about sales performance, customer behavior, and product quality.
 
+📬 Contact
+
+If you need a similar Power BI dashboard or BI solution:
+
+Fiverr: https://www.fiverr.com/s/BRVNWW1,https://www.fiverr.com/s/2KR860X
+LinkedIn: https://www.linkedin.com/in/bazghawaqas/
 ---
 
 *Thank you for reviewing my work. For more projects, please visit my GitHub profile.*
